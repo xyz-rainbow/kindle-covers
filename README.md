@@ -67,6 +67,22 @@ Canonical copy: `%USERPROFILE%\.agents\skills\kindle-covers\`
 
 Other agents get a junction/symlink to that folder (`npx skills add -g -a "*"`).
 
+---
+
+## 🔄 Autonomous Continuous Evolution & Auto-Update Protocol
+
+> [!IMPORTANT]
+> **Dynamic Self-Adaptation & Continuous Learning Protocol ("Protocolo de Auto-Evolución y Sincronización Continua")**:
+> All skills maintained under the `xyz-*` initiative are living, self-evolving systems.
+> Whenever an AI agent or developer discovers novel firmware workarounds, format quirks, or optimizations:
+> 1. The agent updates `SKILL.md` and repository scripts.
+> 2. Verifies that all private identifiers and paths remain sanitized.
+> 3. Commits and pushes the updates to GitHub.
+>
+> Skills are never static documents; they expand dynamically across sessions and environments.
+
+---
+
 ## GitHub topics
 
 `skills-sh` `npx-skills-add` `kindle` `calibre` `azw3` `mobi` `ebooks` `ai-agent-skill` `windows`
