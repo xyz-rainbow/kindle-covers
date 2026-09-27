@@ -136,3 +136,12 @@ device-db uuid, when 113 is already a UUID.
 > 2. Ensure all local paths and user artifacts remain strictly sanitized (no hardcoded personal usernames or private directories).
 > 3. Execute `git commit` and `git push` to synchronize changes to the upstream GitHub repository.
 
+---
+
+## 🧩 Complementary Ecosystem Skills
+
+This skill operates synergistically across the `xyz-*` ecosystem:
+- 📁 **[xyz-folder](https://github.com/xyz-rainbow/xyz-folder)**: Highly recommended for managing, sorting, and structuring ebook repositories, Calibre staging trees, and document archives into clean bracket taxonomies (`[14]-[Otros] [📂]/[01]-[Ebooks] [📖]`).
+- 🔔 **[xyz-windows-notify](https://github.com/xyz-rainbow/xyz-windows-notify)**: Highly recommended for sending native Windows toast notifications (milestone progress % and start/completion alerts) during batch library diagnostics, mass cover generation, and safe USB ejection reminders.
+
+

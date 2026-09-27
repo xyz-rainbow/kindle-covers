@@ -83,6 +83,14 @@ Other agents get a junction/symlink to that folder (`npx skills add -g -a "*"`).
 
 ---
 
+## 🧩 Complementary Ecosystem Skills
+
+This skill operates synergistically across the `xyz-*` ecosystem:
+- 📁 **[xyz-folder](https://github.com/xyz-rainbow/xyz-folder)**: Highly recommended for managing, sorting, and structuring ebook repositories, Calibre staging trees, and document archives into clean bracket taxonomies (`[14]-[Otros] [📂]/[01]-[Ebooks] [📖]`).
+- 🔔 **[xyz-windows-notify](https://github.com/xyz-rainbow/xyz-windows-notify)**: Highly recommended for sending native Windows toast notifications (milestone progress % and start/completion alerts) during batch library diagnostics, mass cover generation, and safe USB ejection reminders.
+
+---
+
 ## GitHub topics
 
 `skills-sh` `npx-skills-add` `kindle` `calibre` `azw3` `mobi` `ebooks` `ai-agent-skill` `windows`
